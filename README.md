@@ -34,4 +34,5 @@
 
 <br/><br/><br/>
 
-![Alt Text](https://github.com/briantkho/briantkho/blob/output/github-contribution-grid-snake.gif)
+![Snake](https://github.com/briantkho/briantkho/blob/output/github-contribution-grid-snake.gif)
+![Metrics](https://github.com/briantkho/briantkho/blob/main/github-metrics.svg)
