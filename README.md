@@ -1,40 +1,28 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
-<h3 align="left">Front-End Developer | Student</h3>
+<h3 align="left">Aspiring Full-Stack Developer | Student</h3>
 
-<p align="left">
-<a href="https://twitter.com/_brianho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_brianho" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/briantkho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="briantkho" height="30" width="40" /></a>
-</p>
-
-<br/>
-
-- 🌱 I’m currently learning **ReactJS and Advanced Data Structures**
+- 🌱 I’m currently learning **ExpressJS**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/16jfPSO66XiIPA24zInGGcFcmQphjMEQd/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I am a Red Cross Youth Facilitator!**
 
-<br/>
-
-**Language and Tools**
-<br/>
-
-<img align = "left" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt = "JS" width="40" height="auto"><img align = "left" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt = "HTML" width="40" height="auto"><img align = "left" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt = "CSS" width="30" height="auto"><img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt = "Svelte" width = "40" height = "auto"><img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt = "React" width = "40" height = "auto">
-<br/><br/><br/>
-
-<h2> My activity </h2>
-<br/>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github-readme-stats.vercel.app/api?username=briantkho3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=briantkho&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
-</a>
-  <br/>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true">
-  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=briantkho&hide_border=true" />
-</a>
+<a href="https://www.linkedin.com/in/briantkho/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="briantkho" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<br>
+
+<h2> My activity </h2>
+
 ![Snake](https://github.com/briantkho/briantkho/blob/output/github-contribution-grid-snake.gif)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briantkho&show_icons=true&locale=en" alt="briantkho" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=briantkho&" alt="briantkho" /></p>
 
 ![Metrics](https://github.com/briantkho/briantkho/blob/main/github-metrics.svg)
