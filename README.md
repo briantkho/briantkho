@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
 <h3 align="left">Aspiring Full-Stack Developer | Student</h3>
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/16jfPSO66XiIPA24zInGGcFcmQphjMEQd/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
