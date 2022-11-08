@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
-<h3 align="left">Aspiring Full-Stack Developer | Student</h3>
+<h3 align="left">Front-End Developer | Student</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 📫 How to reach me: **briantkho@gmail.com**
