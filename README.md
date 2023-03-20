@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
 <h3 align="left">Front-End Developer | Student</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **MySQL**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
