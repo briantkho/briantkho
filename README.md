@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
-<h3 align="left">Front-End Developer | Student</h3>
+<h3 align="left">Software Developer @ ResponsiveAds | Student</h3>
 
 - 💼 My portfolio: **[Link](https://terminal.brianho.tech/)**
 - 🌱 I’m currently learning **MySQL**
