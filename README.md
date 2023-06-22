@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
 <h3 align="left">Software Developer @ ResponsiveAds | Student</h3>
 
-- 💼 My portfolio: **[Link](https://terminal.brianho.tech/)**
+- 💼 My portfolio: **[Here](https://brianho.tech/)**
 - 🌱 I’m currently learning **MySQL**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
