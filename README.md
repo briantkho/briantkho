@@ -2,7 +2,8 @@
 <h3 align="left">Software Developer @ ResponsiveAds | Student</h3>
 
 - 💼 My portfolio: **[Here](https://brianho.tech/)**
-- 🌱 I’m currently learning **C++**
+- ✍️ What I'm working on: **[Building a Startup](https://www.uselayers.app/)**
+- 🌱 I’m currently learning: **C++**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
