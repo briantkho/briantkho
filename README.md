@@ -7,7 +7,7 @@
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I am the Lead at Google Developer Student Clubs @ UBC!**
+- ⚡ Fun fact: **I am the Lead at [Google Developer Student Clubs @ UBC](https://gdsc.community.dev/university-of-british-columbia-vancouver/)!**
 
 <h2 align="left">Connect with me:</h3>
 
