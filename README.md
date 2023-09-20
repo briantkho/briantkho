@@ -3,11 +3,11 @@
 
 - 💼 My portfolio: **[Here](https://brianho.tech/)**
 - ✍️ What I'm working on: **[Building a Startup](https://www.uselayers.app/)**
-- 🌱 I’m currently learning: **C++**
+- 🌱 I’m currently learning: **Data Structures and Algorithms**
 - 📫 How to reach me: **briantkho@gmail.com**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I am a Red Cross Youth Facilitator!**
+- ⚡ Fun fact: **I am the Lead at Google Developer Student Clubs @ UBC!**
 
 <h2 align="left">Connect with me:</h3>
 
