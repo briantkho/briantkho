@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
-<h3 align="left">Software Developer @ Copperleaf | Applied Biology & CS @ UBC</h3>
+<h3 align="left">Software Developer @ Copperleaf | Organizer @ GDG Vancouver</h3>
 
 - 💼 My portfolio: **[Here](https://brianho.tech/)**
 - 📫 How to reach me: **[briantkho@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=briantkho@gmail.com)**
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1DTRz67E8Yzhk-mwqvskMYUhzy88LkSD8/view?usp=sharing)**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I am an Organizer at [Google Developer Groups Vancouver]([https://gdsc.community.dev/university-of-british-columbia-vancouver/](https://gdg.community.dev/gdg-vancouver/))!**
 
 <h2 align="left">Connect with me:</h3>
 
