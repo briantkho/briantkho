@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Brian Ho</h1>
-<h3 align="left">Software Developer @ Copperleaf | Organizer @ GDG Vancouver</h3>
+<h3 align="left">Software Engineer @ IFS | Organizer @ GDG Vancouver</h3>
 
 - 💼 My portfolio: **[Here](https://brianho.tech/)**
 - 📫 How to reach me: **[briantkho@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=briantkho@gmail.com)**
